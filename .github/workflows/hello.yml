@@ -11,5 +11,5 @@ jobs:
         run: echo "Hello world"
 
       - name: Print Helo
-        run: run
+        run: date
 
